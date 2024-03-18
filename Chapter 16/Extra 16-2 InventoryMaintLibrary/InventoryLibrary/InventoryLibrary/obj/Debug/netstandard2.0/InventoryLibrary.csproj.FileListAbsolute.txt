@@ -1,0 +1,9 @@
+C:\Users\Joel\Dropbox\C#\Instructors\Extra Exercises\Extra Solutions\Chapter 16\Extra 16-2 InventoryMaintLibrary\InventoryLibrary\InventoryLibrary\bin\Debug\netstandard2.0\InventoryLibrary.deps.json
+C:\Users\Joel\Dropbox\C#\Instructors\Extra Exercises\Extra Solutions\Chapter 16\Extra 16-2 InventoryMaintLibrary\InventoryLibrary\InventoryLibrary\bin\Debug\netstandard2.0\InventoryLibrary.dll
+C:\Users\Joel\Dropbox\C#\Instructors\Extra Exercises\Extra Solutions\Chapter 16\Extra 16-2 InventoryMaintLibrary\InventoryLibrary\InventoryLibrary\bin\Debug\netstandard2.0\InventoryLibrary.pdb
+C:\Users\Joel\Dropbox\C#\Instructors\Extra Exercises\Extra Solutions\Chapter 16\Extra 16-2 InventoryMaintLibrary\InventoryLibrary\InventoryLibrary\obj\Debug\netstandard2.0\InventoryLibrary.csprojAssemblyReference.cache
+C:\Users\Joel\Dropbox\C#\Instructors\Extra Exercises\Extra Solutions\Chapter 16\Extra 16-2 InventoryMaintLibrary\InventoryLibrary\InventoryLibrary\obj\Debug\netstandard2.0\InventoryLibrary.AssemblyInfoInputs.cache
+C:\Users\Joel\Dropbox\C#\Instructors\Extra Exercises\Extra Solutions\Chapter 16\Extra 16-2 InventoryMaintLibrary\InventoryLibrary\InventoryLibrary\obj\Debug\netstandard2.0\InventoryLibrary.AssemblyInfo.cs
+C:\Users\Joel\Dropbox\C#\Instructors\Extra Exercises\Extra Solutions\Chapter 16\Extra 16-2 InventoryMaintLibrary\InventoryLibrary\InventoryLibrary\obj\Debug\netstandard2.0\InventoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Dropbox\C#\Instructors\Extra Exercises\Extra Solutions\Chapter 16\Extra 16-2 InventoryMaintLibrary\InventoryLibrary\InventoryLibrary\obj\Debug\netstandard2.0\InventoryLibrary.dll
+C:\Users\Joel\Dropbox\C#\Instructors\Extra Exercises\Extra Solutions\Chapter 16\Extra 16-2 InventoryMaintLibrary\InventoryLibrary\InventoryLibrary\obj\Debug\netstandard2.0\InventoryLibrary.pdb

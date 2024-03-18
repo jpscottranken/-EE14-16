@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C55DFCE7-32F5-4989-9DA5-2F2D7D403D8C}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\users\\jpscott\\desktop\\2-24misc\\r3-14\\chapter 14\\extra 14-1 inventorymaintenance\\inventorymaintenance\\frmnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C55DFCE7-32F5-4989-9DA5-2F2D7D403D8C}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\frmnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55DFCE7-32F5-4989-9DA5-2F2D7D403D8C}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\users\\jpscott\\desktop\\2-24misc\\r3-14\\chapter 14\\extra 14-1 inventorymaintenance\\inventorymaintenance\\frminvmaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C55DFCE7-32F5-4989-9DA5-2F2D7D403D8C}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\frminvmaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55DFCE7-32F5-4989-9DA5-2F2D7D403D8C}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\users\\jpscott\\desktop\\2-24misc\\r3-14\\chapter 14\\extra 14-1 inventorymaintenance\\inventorymaintenance\\frminvmaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55DFCE7-32F5-4989-9DA5-2F2D7D403D8C}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\frminvmaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55DFCE7-32F5-4989-9DA5-2F2D7D403D8C}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\users\\jpscott\\desktop\\2-24misc\\r3-14\\chapter 14\\extra 14-1 inventorymaintenance\\inventorymaintenance\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55DFCE7-32F5-4989-9DA5-2F2D7D403D8C}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55DFCE7-32F5-4989-9DA5-2F2D7D403D8C}|InventoryMaintenance\\InventoryMaintenance.csproj|C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\inventorymaintenance\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55DFCE7-32F5-4989-9DA5-2F2D7D403D8C}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55DFCE7-32F5-4989-9DA5-2F2D7D403D8C}|InventoryMaintenance\\InventoryMaintenance.csproj|C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\inventorymaintenance\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55DFCE7-32F5-4989-9DA5-2F2D7D403D8C}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmInvMaint.cs",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\InventoryMaintenance\\frmInvMaint.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\frmInvMaint.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\InventoryMaintenance\\frmInvMaint.cs",
+              "RelativeToolTip": "InventoryMaintenance\\frmInvMaint.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:46:17.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmInvMaint.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\InventoryMaintenance\\frmInvMaint.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\frmInvMaint.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\InventoryMaintenance\\frmInvMaint.cs [Design]",
+              "RelativeToolTip": "InventoryMaintenance\\frmInvMaint.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:27:54.959Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNewItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\InventoryMaintenance\\frmNewItem.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\frmNewItem.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\InventoryMaintenance\\frmNewItem.cs [Design]",
+              "RelativeToolTip": "InventoryMaintenance\\frmNewItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:00:33.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\InventoryMaintenance\\Validator.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\Validator.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\InventoryMaintenance\\Validator.cs",
+              "RelativeToolTip": "InventoryMaintenance\\Validator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:45:04.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supply.cs",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\InventoryMaintenance\\Supply.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\Supply.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\InventoryMaintenance\\Supply.cs",
+              "RelativeToolTip": "InventoryMaintenance\\Supply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:45:01.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\InventoryMaintenance\\Plant.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\Plant.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 14\\Extra 14-1 InventoryMaintenance\\InventoryMaintenance\\Plant.cs",
+              "RelativeToolTip": "InventoryMaintenance\\Plant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:44:54.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

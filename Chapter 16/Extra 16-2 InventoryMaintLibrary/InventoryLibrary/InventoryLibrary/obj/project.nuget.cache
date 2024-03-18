@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtg57ESVs7S+NNrL47eCtKZgDfsghrAmzg9YdP/Aa4vnbWha4BSWcszuNA8AfHl2niP7s5S8guTR6jCgDp63oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jpscott\\Desktop\\2-24Misc\\R3-14\\Chapter 16\\Extra 16-2 InventoryMaintLibrary\\InventoryLibrary\\InventoryLibrary\\InventoryLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpscott\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jpscott\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
